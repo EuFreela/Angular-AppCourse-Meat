@@ -1,4 +1,4 @@
-# Meat - Angular App Starter
+# Angular App Course Meat
 
 <p>Repositório de um modelo Frot e BackEnd em Angular 2-4</p>
 <p>Trata-se de um site para restaurante. O banco de dados esta sendo alimentado pelo arquivo db.json. As dependencias foram acertadas e o que resta é o servidor RestFull em Laravel 5.6</p>
@@ -28,7 +28,7 @@
 `json-server db.json`
 
 <img src="https://s13.postimg.org/bz2g3h75j/image.png" widht="300" height="250">
-<img src="https://s13.postimg.org/m94v2shmf/image.png" width="300" height="250">
-<img src="https://s13.postimg.org/fvfrzjs5z/image.png" width="300" height="250">
-<img src="https://s13.postimg.org/6aw5coi9j/image.png" width="300" height="250">
-<img src="https://s13.postimg.org/46bsblocn/image.png" width="300" height="250">
+<img src="https://s13.postimg.org/m94v2shmf/image.png" width="900" height="250">
+<img src="https://s13.postimg.org/fvfrzjs5z/image.png" width="900" height="250">
+<img src="https://s13.postimg.org/6aw5coi9j/image.png" width="900" height="250">
+<img src="https://s13.postimg.org/46bsblocn/image.png" width="900" height="250">
