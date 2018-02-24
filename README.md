@@ -3,7 +3,17 @@
 <p>Repositório de um modelo Frot e BackEnd em Angular 2-4</p>
 <p>Trata-se de um site para restaurante. O banco de dados esta sendo alimentado pelo arquivo db.json. As dependencias foram acertadas e o que resta é o servidor RestFull em Laravel 5.6</p>
 
-##Para uso deste sistema é necessário a instalação do node e demais dependencias listadas
+<p>Este modelo trata-se de um treinamento com Angular nas versões 2 e 4 de um curso que tenho feito.</p>
+
+<o>
+  <li>1. Criado os componentes básicos do sistema: header, home, rotas, restaurantes, restaurante</li>
+  <li>2. Criado o serviço</li>
+  <li>3. Criado API Rest - json</li>
+  <li>4. Tratamento de erros</li>
+  <li>5. Foi adicionado o serviço para adição de itens no carrinho, porém, nesta versão ainda não foi criado o carrinho.</li>
+</o>
+
+## Para uso deste sistema é necessário a instalação do node e demais dependencias listadas
 
 ### Instalando as Dependências
 `npm install`
