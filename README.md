@@ -36,4 +36,4 @@
 <img src="https://s13.postimg.org/6aw5coi9j/image.png" width="900" height="250">
 <img src="https://s13.postimg.org/46bsblocn/image.png" width="900" height="250">
 <img src="https://s13.postimg.org/fp6pxunif/image.png" width="900" height="250">
-<img src=https://s17.postimg.org/6hntjjidb/image.png" width="900" height="250">
+<img src="https://s17.postimg.org/6hntjjidb/image.png" width="900" height="250">
