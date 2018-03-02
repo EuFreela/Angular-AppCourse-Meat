@@ -11,7 +11,9 @@
   <li>3. Criado API Rest - json</li>
   <li>4. Tratamento de erros</li>
   <li>5. Foi adicionado o serviço para adição de itens no carrinho</li>
-  <li>6. Carrinho de comra adicionado: Adicionar e remover itens</li>
+  <li>6. Carrinho de compra adicionado: Adicionar e remover itens</li>
+  <li>7. Ordem de compra inserido</li>
+  <li>8. Tratamento de formulários | component projection</li>
 </o>
 
 ## Para uso deste sistema é necessário a instalação do node e demais dependencias listadas
@@ -33,3 +35,4 @@
 <img src="https://s13.postimg.org/fvfrzjs5z/image.png" width="900" height="250">
 <img src="https://s13.postimg.org/6aw5coi9j/image.png" width="900" height="250">
 <img src="https://s13.postimg.org/46bsblocn/image.png" width="900" height="250">
+<img src="https://s13.postimg.org/fp6pxunif/image.png" width="900" height="250">
