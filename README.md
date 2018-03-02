@@ -10,7 +10,8 @@
   <li>2. Criado o serviço</li>
   <li>3. Criado API Rest - json</li>
   <li>4. Tratamento de erros</li>
-  <li>5. Foi adicionado o serviço para adição de itens no carrinho, porém, nesta versão ainda não foi criado o carrinho.</li>
+  <li>5. Foi adicionado o serviço para adição de itens no carrinho</li>
+  <li>6. Carrinho de comra adicionado: Adicionar e remover itens</li>
 </o>
 
 ## Para uso deste sistema é necessário a instalação do node e demais dependencias listadas
