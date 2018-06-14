@@ -30,10 +30,10 @@
 ### Iniciando o serviço db.json para alimentação das informções que estão sendo trabalhadas (raiz da aplicação)
 `json-server db.json`
 
-<img src="https://s13.postimg.org/bz2g3h75j/image.png" widht="300" height="250">
-<img src="https://s13.postimg.org/m94v2shmf/image.png" width="900" height="250">
-<img src="https://s13.postimg.org/fvfrzjs5z/image.png" width="900" height="250">
-<img src="https://s13.postimg.org/6aw5coi9j/image.png" width="900" height="250">
-<img src="https://s13.postimg.org/46bsblocn/image.png" width="900" height="250">
-<img src="https://s13.postimg.org/fp6pxunif/image.png" width="900" height="250">
-<img src="https://s17.postimg.org/6hntjjidb/image.png" width="900" height="250">
+<img src="https://s13.postimg.cc/bz2g3h75j/image.png" widht="300" height="250">
+<img src="https://s13.postimg.cc/m94v2shmf/image.png" width="900" height="250">
+<img src="https://s13.postimg.cc/fvfrzjs5z/image.png" width="900" height="250">
+<img src="https://s13.postimg.cc/6aw5coi9j/image.png" width="900" height="250">
+<img src="https://s13.postimg.cc/46bsblocn/image.png" width="900" height="250">
+<img src="https://s13.postimg.cc/fp6pxunif/image.png" width="900" height="250">
+<img src="https://s17.postimg.cc/6hntjjidb/image.png" width="900" height="250">
